@@ -1,6 +1,10 @@
 # adding db
 db.sqlite3
 
+# adding more stuff recommended by django girls
+/static
+.DS_Store
+
 ## boilerplate gitignore for python from github
 
 # Byte-compiled / optimized / DLL files
@@ -85,6 +89,7 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
+env/
 
 # Spyder project settings
 .spyderproject
